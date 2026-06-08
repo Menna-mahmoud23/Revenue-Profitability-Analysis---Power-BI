@@ -27,12 +27,12 @@ Engineered a comprehensive Power BI business intelligence dashboard to provide r
 ### Revenue & Profitability Analysis
 Enterprise-grade financial analytics platform featuring multi-dimensional performance tracking and comprehensive profitability assessment
 
-![Revenue & Profitability Analysis Dashboard](Image/Revenue%20&%20Profitability%20Analysis.png)
+![Revenue & Profitability Analysis Dashboard](images/Dashboard.png)
 
 ### Advanced Interactive Filtering System
 Sophisticated filtering interface enabling dynamic data segmentation, multi-level drill-down analysis, and flexible data exploration
 
-![Interactive Filters](Filters.png)
+![Interactive Filters](images/Filters.png)
 
 ## Professional Contributions
 
